@@ -9,8 +9,7 @@
 
 ## About Me
 I am a Student, passionate about Machine Learning, AI. With experience in C, C++, python. 
-![Image](https://icon2.cleanpng.com/20190304/oul/kisspng-c-programming-language-logo-computer-programming-aptech-5-ngn-ng-lp-trnh-cho-ngi-m-1713903219641.webp](https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-children-s-programming-education-image_2229580.jpg)
-
+![Image](https://icon2.cleanpng.com/20190304/oul/kisspng-c-programming-language-logo-computer-programming-aptech-5-ngn-ng-lp-trnh-cho-ngi-m-1713903219641.webp)
 ---
 
 ## Education
