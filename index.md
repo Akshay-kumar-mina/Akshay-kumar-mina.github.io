@@ -1,83 +1,67 @@
----
-layout: default
-title: Your Name - CV
----
 
-# Your Name
+
+# Akshay Kumar mina
 
 **Contact Information:**  
-[Email](mailto:your_email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername) | Phone: +123 456 7890  
+[Email](akshaymina47@gmail.com) | [LinkedIn](https://linkedin.com/in/ak47) | [GitHub](https://github.com/Akshay-kumar-mina)  
 
 ---
 
 ## About Me
-I am a [Your Profession or Area of Study], passionate about [your interests or expertise]. With experience in [key skills or areas], I aim to [your goals or mission].
+I am a Student, passionate about Machine Learning, AI. With experience in C, C++, python. 
+![Image](https://icon2.cleanpng.com/20190304/oul/kisspng-c-programming-language-logo-computer-programming-aptech-5-ngn-ng-lp-trnh-cho-ngi-m-1713903219641.webp)
 
 ---
 
 ## Education
-**[Your Degree]**, [Your Major]  
-[Your University], [City, Country]  
-Graduation Year: YYYY  
+**B.Tech.**, Computer Science and Engineering  
+	MNIT Jaipur, India  
+Graduation Year: 2027  
 
 **Notable Achievements:**  
-- [Achievement 1]  
-- [Achievement 2]  
+- CGPA 7.5 
+- Computer Science Club  
 
 ---
 
 ## Experience
-### [Job Title], [Company Name]  
-*Start Date – End Date*  
+### Student, College  
+*2023 – 2027*  
 - **Key Responsibilities:**
-  - [Responsibility 1]
-  - [Responsibility 2]
+  - 
+  - 
 - **Achievements:**
-  - [Achievement 1]
-  - [Achievement 2]
-
-### [Job Title], [Company Name]  
-*Start Date – End Date*  
-- **Key Responsibilities:**
-  - [Responsibility 1]
-  - [Responsibility 2]
-
----
+  - 
+  -
 
 ## Skills
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- C, C++
+- OOPS
+- Python, numpy, pandas
 
 ---
 
 ## Projects
-### [Project Title]  
-[GitHub Link](https://github.com/yourusername/project-name)  
-- **Description:** [Brief description of the project, goals, and results.]  
-- **Technologies:** [List of tools or languages used.]
-
-### [Project Title]  
-[GitHub Link](https://github.com/yourusername/project-name)  
-- **Description:** [Brief description of the project, goals, and results.]  
-- **Technologies:** [List of tools or languages used.]
+### Gesture Controlled Projectile Motion  
+[GitHub Link](https://github.com/yourusername/Projectile)  
+- **Description:** Using OpenCV and MediaPipe to control the trajectory of an ball in projectile motion 
+- **Technologies:** Python, Visual Studio, C++, SFML, MediaPipe
 
 ---
 
 ## Certifications
-- [Certification Name] - [Institution], YYYY  
-- [Certification Name] - [Institution], YYYY  
+- Machine Learning - Udemy, 2024
 
 ---
 
 ## Interests
-- [Interest 1]  
-- [Interest 2]  
-- [Interest 3]  
+- Machine Learning
+- Software Development
+- Web Development
 
 ---
 
-_Last updated: [Month, Year]_
+_Last updated: 11, 2024_
 
 
 
