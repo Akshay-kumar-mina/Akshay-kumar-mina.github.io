@@ -25,10 +25,11 @@ I am a Student passionate about Machine Learning, AI.With experience in C, C++.
 ---
 
 ## Skills
-|Language|C|C++|Python|JavaScript|
-|---|
-|Frameworks|Numpy|React.js|Pandas|
-|Hobbies|Gym|Coding|Gaming|Reading|
+|Language|Framework|
+|---|---|
+|Python|Numpy,Pandas|
+|C++, C|STL|
+|JavaScript|React.js, Next.js|
 
 ---
 
