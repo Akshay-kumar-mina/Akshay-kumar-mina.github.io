@@ -8,35 +8,27 @@
 ---
 
 ## About Me
-I am a Student, passionate about Machine Learning, AI. With experience in C, C++, python. 
+I am a Student passionate about Machine Learning, AI.With experience in C, C++.
 ![Image](https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-children-s-programming-education-image_2229580.jpg)
 ---
 
 ## Education
 **B.Tech.**, Computer Science and Engineering  
 	MNIT Jaipur, India  
-Graduation Year: 2027  
+	Graduation Year: 2027  
 
-**Notable Achievements:**  
+**Interest and Achievements:**  
 - CGPA 7.5 
 - Computer Science Club  
+- Programming, Gaming, Gym
 
 ---
 
-## Experience
-### Student, College  
-*2023 – 2027*  
-- **Key Responsibilities:**
-  - 
-  - 
-- **Achievements:**
-  - 
-  -
-
 ## Skills
-- C, C++
-- OOPS
-- Python, numpy, pandas
+|Language|C|C++|Python|JavaScript|
+|---|
+|Frameworks|Numpy|React.js|Pandas|
+|Hobbies|Gym|Coding|Gaming|Reading|
 
 ---
 
