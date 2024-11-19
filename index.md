@@ -9,7 +9,7 @@
 
 ## About Me
 I am a Student passionate about Machine Learning, AI.With experience in C, C++.
-![Image](https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-children-s-programming-education-image_2229580.jpg)
+![Image, size=50](https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-children-s-programming-education-image_2229580.jpg)
 ---
 
 ## Education
